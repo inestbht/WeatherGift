@@ -11,6 +11,7 @@
 		8E0C73F328599D09004B46A1 /* DailyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0C73F228599D09004B46A1 /* DailyTableViewCell.swift */; };
 		8E11C2B4285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E11C2B3285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift */; };
 		8E11C2B6285AC87700EA7B33 /* UIViewController+alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E11C2B5285AC87700EA7B33 /* UIViewController+alert.swift */; };
+		8E11C2B8285AE11400EA7B33 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E11C2B7285AE11400EA7B33 /* AboutViewController.swift */; };
 		8E19FEFD2856FC8E006E208E /* APIkeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E19FEFC2856FC8E006E208E /* APIkeys.swift */; };
 		8E2784B42858188B00F8B280 /* LocationDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2784B32858188B00F8B280 /* LocationDetailViewController.swift */; };
 		8E2784B6285835D800F8B280 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2784B5285835D800F8B280 /* PageViewController.swift */; };
@@ -31,6 +32,7 @@
 		8E0C73F228599D09004B46A1 /* DailyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTableViewCell.swift; sourceTree = "<group>"; };
 		8E11C2B3285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourlyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8E11C2B5285AC87700EA7B33 /* UIViewController+alert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+alert.swift"; sourceTree = "<group>"; };
+		8E11C2B7285AE11400EA7B33 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		8E19FEFC2856FC8E006E208E /* APIkeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIkeys.swift; sourceTree = "<group>"; };
 		8E2784B32858188B00F8B280 /* LocationDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailViewController.swift; sourceTree = "<group>"; };
 		8E2784B5285835D800F8B280 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				8E2784B5285835D800F8B280 /* PageViewController.swift */,
 				8E2784B32858188B00F8B280 /* LocationDetailViewController.swift */,
 				8E8C1D3A2856C6AA002E1D54 /* LocationListViewController.swift */,
+				8E11C2B7285AE11400EA7B33 /* AboutViewController.swift */,
 				8E0C73F228599D09004B46A1 /* DailyTableViewCell.swift */,
 				8E11C2B3285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift */,
 				8E11C2B5285AC87700EA7B33 /* UIViewController+alert.swift */,
@@ -236,6 +239,7 @@
 				8E2784B6285835D800F8B280 /* PageViewController.swift in Sources */,
 				8E8C1D4B2856C6EB002E1D54 /* WeatherLocation.swift in Sources */,
 				8E19FEFD2856FC8E006E208E /* APIkeys.swift in Sources */,
+				8E11C2B8285AE11400EA7B33 /* AboutViewController.swift in Sources */,
 				8E8C1D372856C6AA002E1D54 /* AppDelegate.swift in Sources */,
 				8E11C2B6285AC87700EA7B33 /* UIViewController+alert.swift in Sources */,
 				8E2784B42858188B00F8B280 /* LocationDetailViewController.swift in Sources */,
