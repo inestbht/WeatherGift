@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8E0C73F128594FFC004B46A1 /* WeatherDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0C73F028594FFC004B46A1 /* WeatherDetail.swift */; };
 		8E0C73F328599D09004B46A1 /* DailyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0C73F228599D09004B46A1 /* DailyTableViewCell.swift */; };
+		8E11C2B4285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E11C2B3285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift */; };
 		8E19FEFD2856FC8E006E208E /* APIkeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E19FEFC2856FC8E006E208E /* APIkeys.swift */; };
 		8E2784B42858188B00F8B280 /* LocationDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2784B32858188B00F8B280 /* LocationDetailViewController.swift */; };
 		8E2784B6285835D800F8B280 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E2784B5285835D800F8B280 /* PageViewController.swift */; };
@@ -27,6 +28,7 @@
 		7C07F0D5B1624EA298763101 /* libPods-WeatherGift.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeatherGift.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E0C73F028594FFC004B46A1 /* WeatherDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetail.swift; sourceTree = "<group>"; };
 		8E0C73F228599D09004B46A1 /* DailyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyTableViewCell.swift; sourceTree = "<group>"; };
+		8E11C2B3285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourlyCollectionViewCell.swift; sourceTree = "<group>"; };
 		8E19FEFC2856FC8E006E208E /* APIkeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIkeys.swift; sourceTree = "<group>"; };
 		8E2784B32858188B00F8B280 /* LocationDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailViewController.swift; sourceTree = "<group>"; };
 		8E2784B5285835D800F8B280 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				8E2784B32858188B00F8B280 /* LocationDetailViewController.swift */,
 				8E8C1D3A2856C6AA002E1D54 /* LocationListViewController.swift */,
 				8E0C73F228599D09004B46A1 /* DailyTableViewCell.swift */,
+				8E11C2B3285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift */,
 				8E8C1D3C2856C6AA002E1D54 /* Main.storyboard */,
 				8E8C1D3F2856C6AC002E1D54 /* Assets.xcassets */,
 				8E8C1D412856C6AC002E1D54 /* LaunchScreen.storyboard */,
@@ -233,6 +236,7 @@
 				8E8C1D372856C6AA002E1D54 /* AppDelegate.swift in Sources */,
 				8E2784B42858188B00F8B280 /* LocationDetailViewController.swift in Sources */,
 				8E8C1D392856C6AA002E1D54 /* SceneDelegate.swift in Sources */,
+				8E11C2B4285AAD9F00EA7B33 /* HourlyCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
